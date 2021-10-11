@@ -6,10 +6,10 @@ from sklearn.model_selection import train_test_split
 
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.cluster import KMeans
-from sklearn import cluster
-from sklearn.cluster import kmeans_plusplus
-from sklearn.datasets import make_blobs
 import matplotlib.pyplot as plt
+#from sklearn import cluster
+#from sklearn.cluster import kmeans_plusplus
+#from sklearn.datasets import make_blobs
 
 pd.set_option('display.max_columns', 25)
 
